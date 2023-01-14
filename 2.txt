@@ -1,1 +1,2 @@
 This is the 2 file of 1st version of master in branching in github.
+Made a new branch of the given repository, and this is version 2.
